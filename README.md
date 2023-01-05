@@ -1,5 +1,5 @@
 # excalibur_simulations
-Prioritization of genetic regions based on cohort (case vs control) using association testing
+This repository contains all the necessary codes to reproduce the preliminary test selection and the simulations used to establish our ensemble method Excalibur
 
 Preliminary test selection 
   - All the code used to perform the preliminary tests selection 
